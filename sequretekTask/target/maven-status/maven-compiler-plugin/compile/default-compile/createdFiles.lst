@@ -1,0 +1,11 @@
+com\demo\entity\WhatsAppEntity.class
+com\demo\service\OtpService.class
+com\demo\SequretekTaskApplication.class
+com\demo\repository\OtpRepository.class
+com\demo\controller\OtpController.class
+com\demo\utility\SuccessResponse.class
+com\demo\utility\SwaggerConfig.class
+com\demo\utility\ErrorResponse.class
+com\demo\serviceImpl\OtpServiceImpl.class
+com\demo\utility\BaseDTO.class
+com\demo\entity\OtpRegister.class
